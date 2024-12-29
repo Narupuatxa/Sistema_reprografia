@@ -2,7 +2,7 @@
   "name": "sistema-reprografia",
   "version": "1.0.0",
   "description": "Sistema de gestão para serviços de reprografia",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
